@@ -3,6 +3,9 @@ This is MadLad Squad, a team of software developers that want to develop better 
 - Game Engines
 - Developer Tools
 - Automation tools
+- Libraries
+- Frameworks
+- Plugins
 - Regular software
 
 Some of our projects:
