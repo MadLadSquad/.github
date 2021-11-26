@@ -8,7 +8,7 @@ This is MadLad Squad, a team of software developers that want to develop better 
 - Plugins
 - Regular software
 
-Some of our projects:
+## Some of our projects:
 - UntitledVulkanGameEngine - A general purpose game engine written in C++ using the Vulkan graphics API
 - UntitledVulkanTerminalEmulator - A terminal emulator written in C++ that runs on both Unix and Win32 terminal systems and efficiently renders text using the Vulkan graphics API
 - UntitledLog - A small console/file logging library and a dear imgui console widget written in C++
@@ -19,7 +19,10 @@ Some of our projects:
 - UVKSpaceInvaders - A space invaders clone game made using the UntitledVulkanGameEngine
 - ImTTY - a terminal emulator widget for dear imgui
 
-Contacts:
+## Contacts:
 - E-mail - contact@madladsquad.com
 - Discord - <https://discord.gg/4wgH8ZE>
 - Discord - Madman10K#0345
+## Additional notes
+Thanks to JetBrains for providing our core team/contributors with free licenses to their IDEs
+![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)
