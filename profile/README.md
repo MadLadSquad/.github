@@ -25,4 +25,6 @@ This is MadLad Squad, a team of software developers that want to develop better 
 - Discord - Madman10K#0345
 ## Additional notes
 Thanks to JetBrains for providing our core team/contributors with free licenses to their IDEs
-![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)
+
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" data-canonical-src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="200" height="200" />
+
