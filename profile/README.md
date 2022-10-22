@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is MadLad Squad, a team of software developers that want to develop better software. We develop all kinds of software such as
+This is MadLad Squad, a team of developers focused on creating great software. Here is a list of some of the categories of applications we develop:
 - Game Engines
 - Developer Tools
 - Automation tools
