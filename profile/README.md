@@ -3,11 +3,12 @@ This is MadLad Squad, a team of developers focused on creating great software. W
 the developers of the UntitledDesktopEnvironment, UntitledApplicationSuite and more.
 
 We mainly develop projects in the following fields:
+
 1. Cross-platform desktop applications
 1. Developer tools
-1. Multilingual and applications related to natural languages
+1. Multilingual applications and libraries
 1. Games
-1. CI and CD developer and deployment tools
+1. CI and CD tools
 
 More info can be found on [our website](https://madladsquad.com/).
 
