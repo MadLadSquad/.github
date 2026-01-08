@@ -16,7 +16,6 @@ More info can be found on [our website](https://madladsquad.com/).
 - E-mail - contact@madladsquad.com
 - Website - https://madladsquad.com
 - Discord - <https://discord.gg/4wgH8ZE>
-- Discord - Madman10K#0345
 
 ## Additional notes
 Thanks to JetBrains for providing our core team/contributors with free licenses to their IDEs.
