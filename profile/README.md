@@ -1,6 +1,5 @@
 ## Welcome 👋
-This is MadLad Squad, a team of developers focused on creating great software. We're
-the developers of the UntitledDesktopEnvironment, UntitledApplicationSuite and more.
+This is MadLadSquad, a decentralized team of open-source developers.
 
 We mainly develop projects in the following fields:
 
@@ -14,7 +13,7 @@ More info can be found on [our website](https://madladsquad.com/).
 
 ## Contacts:
 - E-mail - contact@madladsquad.com
-- Website - https://madladsquad.com
+- Website - <https://madladsquad.com>
 - Discord - <https://discord.gg/4wgH8ZE>
 
 ## Additional notes
